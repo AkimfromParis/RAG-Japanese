@@ -1,4 +1,4 @@
-# Open-source RAG for Japanese in low resource settings
+# Open-source RAG for Japanese LLM in low resource settings
 
 1) Llama-Index as data framework
 2) Embeddings from Multi-lingual E5 from Microsoft 
